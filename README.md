@@ -1,5 +1,7 @@
 # Introduction
 
+*OUTDATED ARCHIVED IMPLEMENTATION* - using APIGen now.
+
 SilverStripe API docs for the core system in different versions,
 generated through *PHPDocumentor*.
 
